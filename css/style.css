@@ -1,0 +1,58 @@
+body{
+   font-family: "Poppins";
+   font-weight: 300;
+   font-size: 14px;
+   line-height: 1.79;
+   color: #6C757D;
+   background: #E5E5E5;
+}
+h1,
+h2{
+   font-weight: 700;
+   font-size: 25px;
+   line-height: 1.6; 
+   color: #212529;
+}
+h1{
+   margin-bottom: 40px;
+}
+[class*="__container"]{
+   max-width: 1270px;
+   padding: 0 15px;
+   margin: 0 auto;
+}
+.title-first{
+   max-width: 400px;
+}
+.title-second{
+   max-width: 605px; 
+}
+.main__article > div.text, div.title {
+   max-width: 816px;
+   margin: 0 auto;
+}
+.main__article > div.text{
+   margin-bottom: 80px;
+}
+.main__article > div.title{
+   margin-bottom: 40px;
+}
+.main__images{
+   font-size: 0;
+   margin-bottom: 80px;
+}
+.img,
+.img1,
+.img2{
+   max-width: 100%;
+   font-size: 16px;
+}
+.img1{
+   margin-right: 30px;
+}
+.text > p{
+   margin-bottom: 25px;
+}
+.autor{
+   text-align: center;
+}
